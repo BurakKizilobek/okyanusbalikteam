@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+  
+
+
+
+  .s1 {
+    background-image: url("./img/bulut.jpg");
+    background-size: cover;
+  }
+
+
+  .section h1 {
+    font-size: 64px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    background: linear-gradient(to left, #c9d9df, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+
+
+
+  .s2 {
+    background: linear-gradient(to left top, rgb(121, 156, 209), rgb(132, 172, 199));
+  }
+  .s2 h1 {
+    font-size: 48px;
+    background: linear-gradient(to left, #ffffff, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+
+
+
+  .s3 {
+    background-image: url("./img/kiss.png");
+    background-size: cover;
+  }
+
+  .s3 {
+    background: linear-gradient(to left top, rgb(209, 161, 121), rgb(253, 203, 85));
+  }
+  .s3 h1 {
+    font-size: 48px;
+    background: linear-gradient(to left, #404042, #373838);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+
+
+
+
+  .s4 {
+    background-image: url("./img/kiss.png");
+    background-size: cover;
+  }
+
+  .s4 {
+    background: linear-gradient(to left top, rgb(162, 102, 168), rgb(235, 166, 229));
+  }
+  .s4 h1 {
+    font-size: 48px;
+    background: linear-gradient(to left, #3c2155, #4d0e49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+
+
+
+  .chair {
+    height: 20%;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+     transform: translate(-50%, -50%);
+  }
+  
+
+
+  .description {
+    margin-top: 20%;
+    width: 50%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+
+
+  .description p {
+    margin: 50px 0px;
+  }
+
+  .giris { 
+    margin-top: 20%;
+    width: 50%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+  
+
+  .center {      
+      width: 100%;
+      height: 100%;
+        margin-top: 50%;
+        margin-left:  25%
+  }
